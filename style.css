@@ -1,0 +1,73 @@
+body {
+    font-size: 75%;
+    margin: 0;
+    padding: 0;
+    font-family:"Lucida Grande", "Tahoma", "Helvetica", "Arial", sans-serif;
+    color: #222;
+}
+table, tr, td {
+    font-size: inherit;
+}
+tr, td {
+    vertical-align: top;
+}
+img, a img {
+    border: none;
+}
+#main-content {
+}
+#title-panel {
+    padding: 0.25in 0.5in;
+    background-image:url("http://www.othervoices.org/1.1/gpeaker/Arcade2.Jpeg");
+    font-weight:bold;
+    font-size:24px;
+    color:#C5E0EB;
+}
+#top-panels {
+    padding: 0.5em 0.5in;
+    border-top: 1px solid #BCB79E;
+    border-bottom: 1px solid #BCB79E;
+    background: #C5E0EB;
+}
+.exhibit-tileView-body {
+    list-style: none;
+}
+.exhibit-collectionView-group-count {
+    display: none;
+}
+table.card {
+    border: 1px solid #ddd;
+    padding: 0.5em;
+    margin: 0.5em 0;
+    display: block;
+    background-color:#DCF0F7;
+}
+div.name {
+    font-weight: bold;
+    font-size: 120%;
+}
+.publication-wherewhen {
+    color: #888;
+}
+div.card-thumbnail {
+    float: left;
+    width: 13em;
+    height: 10em;
+    border: 1px solid #BCB79E;
+    background: #F0FFF0;
+    padding: 1em;
+    margin: 0.5em;
+    text-align: center;
+}
+div.card-timeline-lens {
+    padding: 1em;
+    text-align: center;
+}
+.byline {
+    font-size: 18px;
+    text-align: right;
+}
+div.exhibit-text-facet input {
+    height:20px;
+    width:400px;
+}

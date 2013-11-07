@@ -1,0 +1,489 @@
+{
+    "types": {
+        "card" : {
+            "pluralLabel": "cards"
+        }
+    },
+    "properties": {
+        "card-refs" : {
+            "valueType": "item"
+        }
+    },
+    "items": [
+        {
+            "fulltext": "Fashions are a collective medicament for the ravages of oblivion. The more short\u00ad lived a period, the more susceptible it is to fashion. Compare K2a,3.", 
+            "section": "B", 
+            "card-type": "comment", 
+            "label": "B9a,1", 
+            "card-refs": "K2a,3", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Focillon on the phantasmagoria of fashion: \"Most often . . . it creates hybrids; it imposes on the human being the profile of an animal. . . . Fashion thus invents an artificial humanity which is not the passive decoration of a formal environment, but that very environment itself. Such a humanity-by turns heraldic, theatrical, fantastical, architectural-takes, as its ruling principle, the poetics of ornament, and what it calls 'line' . . . is perhaps hut a subtle compromise between a certain physiological canon . . . and imaginative design.\" Henri Focillon, Vie des formes (Paris, 1934), p. 41.", 
+            "source-name": "Vie des formes", 
+            "publication-place": "Paris", 
+            "people": "Henri Focillon", 
+            "section": "B", 
+            "card-type": "quote", 
+            "label": "B9a,2", 
+            "publication-page": "41", 
+            "publication-date": "1934", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "There is hardly another article of dress that can give expression to such divergent erotic tendencies, and that has so much latitude to disguise them, as a woman's hat. Whereas the meaning of male headgear in its sphere (the political) is strictly to tied to a few rigid patterns, the shades of erotic meaning in a woman's hat are virtually incalculable. It is not so much the various possibilities of symbolic reference to the sexual organs that is chiefly of interest here. More surprising is what a hat can say about the rest of the outfit. H<elen> Grund has made the ingenious suggestion that the bonnet, which is contemporaneous with the crino\u00adline, actually provides men with directions for managing the latter. The wide brim of the bonnet is turned up-thereby demonstrating how the crinoline must be turned up in order to make sexual access to the woman easier for the man.", 
+            "people": "Helen Grund", 
+            "section": "B", 
+            "card-type": "comment", 
+            "label": "B10,1", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "For the females of the species homo sapiens-at the earliest conceivable period of its existence-the horizontal positioning of the body must have had the greatest advantages. It made pregnancy easier for them, as can be deduced from the back-bracing girdles and trusses to which pregnant women today have recourse. Proceeding from this consideration, one may perhaps venture to ask: Mightn't walking erect, in general, have appeared earlier in men than in women? In that case, the woman would have been the four-footed companion of the man, as the dog or cat is today. And it seems only a step from this conception to the idea that  the frontal encounter of the two partners in coitus would have been originally a kind of perversion; and perhaps it was by way of this deviance that the woman would have begun to walk upright. (See note in the essay \"Eduard Fuchs : Der Sannnler und der Historiker:')'\"", 
+            "section": "B", 
+            "card-type": "comment", 
+            "label": "B10,2", 
+            "text-refs": "Eduard Fuchs: Der Sannnler und der Historiker", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "\"It would . . . be interesting to trace the effects exerted by this disposition to upright posture on the structure and function of the rest of the body. There is no doubt that all the particulars of an organic entity are held together in intimate cohesion, but with the present state of our scientific knowledge we must maintain that the extraordinary influences ascribed herewith to standing upright cannot in fact be proved ..... No significant repercussion can be demonstrated for the struc\u00adture and function of the inner organs, and Herder's hypotheses-according to which all forces would react differently in the upright posture, and the blood stimulate the nerves differently-forfeit all credibility as soon as they are referred to differences manifestly important for behavior.\" Hermann Lotze, Mikrokosmos (Leipzig, 1858), vol. 2 , p. 90.", 
+            "source-name": "Mikrokosmos", 
+            "publication-place": "Leipzig", 
+            "people": "Hermann Lotze", 
+            "section": "B", 
+            "card-type": "quote", 
+            "label": "B10a,1", 
+            "publication-page": "90", 
+            "publication-date": "1858", 
+            "publication-volume": "2", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "A passage from a cosmetics prospectus , characteristic. of the fashions of the Second Empire. The manufacturer recommends \" a cosmetic ..... by means of which ladies, if they so desire, can give their complexion the gloss of rose taffeta.\" Cited in Ludwig Borne, Gesnmmelte Schriften (Hamburg and Frankfurt am Main, 1862), vol. 3, p. 282 (\"Die Industrie-Ausstellung im Louvre\").", 
+            "source-name": "Gesammelte Schriften", 
+            "publication-place": "Hamburg and Frankfurt am Main", 
+            "people": "Ludwig Borne", 
+            "section": "B", 
+            "card-type": "quote", 
+            "label": "B10a,2", 
+            "publication-page": "282", 
+            "publication-date": "1862", 
+            "publication-volume": "3", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Few things in the history of humanity are as well known to us as the history of Paris. Tens of thousands of volumes are dedicated solely to the investigation of this tiny spot on the earth's surface. Authentic guides to the antiquities of the old Roman city-Lutetia Parisorum-appear as early as the sixteenth century. The catalogue of the imperial library, printed during the reign of Napoleon III, con\u00adtains nearly a hundred pages under the rubric \"Paris;' and this collection is far from complete. Many of the main thoroughfares have their own special litera\u00adture, and we possess written accounts of thousands of the most inconspicuous houses. In a beautiful turn of phrase, Hugo von Hofinannsthal called <this city> \"a landscape built of pure life:\u201d And at work in the attraction it exercises on people is the kind of beauty that is proper to great landscapes-more precisely, volcanic landscapes. Paris is a counterpart in the social order to what Vesuvius is in the geographic order: a menacing, hazardous massif, an ever-active hotbed of revolution. But just as the slopes of Vesuvius, thanks to the layers of lava that cover them, have been transformed into paradisal orchards, so the lava of revolu\u00adtions provides uniquely fertile ground for the blossoming of art, festivity, fashion. [] Fashion []", 
+            "people": "Hugo von Hofinannsthal", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C1,6", 
+            "type": "card", 
+            "categories": "Fashion"
+        }, 
+        {
+            "fulltext": "To construct the city topographically-tenfold and a hundredfold-from out of its arcades and its gateways, its cemeteries and bordellos, its railroad stations and its . . . , just as formerly it was defined by its churches and its markets. And the more secret, more deeply embedded figures of the city: murders and rebellions, the bloody knots in the network of the streets, lairs of love, and conflagrations. [] Flaneur []", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C1,8", 
+            "type": "card", 
+            "categories": "Flaneur"
+        }, 
+        {
+            "fulltext": "Couldn't an exciting film be made from the map of Paris? From the unfolding of its various aspects in temporal succession? From the compression of a centuries-long movement of streets, boulevards, arcades, and squares into the space of half an hour? And does the flilneur do anything different? [] Flaneur []", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C1,9", 
+            "type": "card", 
+            "categories": "Flaneur"
+        }, 
+        {
+            "fulltext": "The gallery that leads to the Mothers' is made of wood. Likewise, in the large\u00ad scale renovations of the urban scene, wood plays a constant though ever-shifting role: amid the modem traffic, it fashions, in the wooden palings and in the wooden planking over open substructions, the inlage of its rustic prehistory. [] Iron []", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C2a,4", 
+            "type": "card", 
+            "categories": "Iron"
+        }, 
+        {
+            "fulltext": ". . . All this, in our eyes, is what the arcades are. And they were nothing of all this. \"It is only today, when the pickaxe menaces them, that they have at last become the true sanctuaries of a cult of the ephemeral, the ghostly landscape of damnable pleasures and professions. Places that yesterday were incomprehensible, and that tomorrow will never know:\u201d Louis Aragon, Le Paysan de Paris (Paris, 1926), p. 19. [] Collector []", 
+            "source-name": "Le Paysan de Paris", 
+            "publication-place": "Paris", 
+            "people": "Louis Aragon", 
+            "section": "C", 
+            "card-type": "quote", 
+            "label": "C2a,9", 
+            "publication-page": "19", 
+            "publication-date": "1926", 
+            "type": "card", 
+            "categories": "Collector"
+        }, 
+        {
+            "fulltext": "The dream-it is the earth in which the find is made that testifies to the primal history of the nineteenth century. [] Dream []", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C2a,11", 
+            "type": "card", 
+            "categories": "Dream"
+        }, 
+        {
+            "fulltext": "Every current of fashion or of worldview derives its force from what is forgotten. This downstream flow is ordinarily so strong that only the group can give itself up to it; the individual-the precursor-is liable to collapse in the face of such violence, as happened with Proust. In other words: what Proust, as an individual, directly experienced in the phenomenon of remembrance, we have to experience indirectly (with regard to the nineteenth century) in studying \"current;' \"fash\u00adion;' \"tendency\" -as punishment, if you will, for the sluggishness which keeps us from taking it up ourselves. ", 
+            "section": "K", 
+            "card-type": "comment", 
+            "label": "K2a,3", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "How gratings-as allegories-have their place in hell. In the Passage Vivienne, sculptures over the main entrance representing allegories of commerce.", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C1,1", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Surrealism was born in an arcade. And under the protection of what muses!", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C1,2", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "The father of Surrealism was Dada; its mother was an arcade. Dada, when the two first met, was already old. At the end of 1919, Aragon and Breton, out of antipathy to Montpamasse and Montmartre, transferred the site of their meet\u00adings with friends to a cafe in the Passage de l'Opera. Construction of the Boule\u00advard Haussmann brought about the demise of the Passage de l'Opera. Louis Aragon devoted 135 pages to this arcade; in the sum of these three digits hides the number nine-the number of muses who bestowed their gifts on the new\u00ad-born Surrealism. They are naned Luna, Countess Geschwitz, Kate Greenaway, Mors, Cleo de Merode, Dulcinea, Libido, Baby Cadum, and Friederike Kemp\u00adner. (Instead of Countess Geschwitz: Tipse?)", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C1,3", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Cashier as Danae. ", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C1,4", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Pausanias produced his topography of Greece around A.D. 200, at a time when the cult sites and many other monuments had begun to fall into ruin.", 
+            "people": "Pausanias", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C1,5", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "\u201cTwo steps from the Palais-Royalj between the Collr des Fontaines and the Rue Neuve-des-Bons-Enfants, there is a dark and tortuous little arcade adorned by a public scribe and a greengrocer. It could resemble the cave of Cacus or of Trophonius~ but it could never resemble an arcade-even with good will and gas lighting.\u201d <Alfred> Delvau, Les Dessous de Paris (Paris, 1860), pp. 105-106.", 
+            "source-name": "Les Dessous de Paris", 
+            "publication-place": "Paris", 
+            "section": "C", 
+            "card-type": "quote", 
+            "label": "C1a,1", 
+            "publication-page": "105-106", 
+            "publication-date": "1860", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "One knew of places in ancient Greece where the way led down into the under\u00ad world. Our waking existence likewise is a land which, at certain hidden points, leads down into the underworld-a land full of inconspicuous places from which dreams arise. All day long, suspecting nothing, we pass them by, but no sooner has sleep come than we are eagerly groping our way back to lose ourselves in the dark corridors. By day, the labyrinth of urban dwellings resembles consciousness; the arcades (which are galleries leading into the city's past) issue unre\u00admarked onto the streets. At night, however, under the tenebrous mass of the houses, their denser darkness protrudes like a threat, and the nocturnal pedes\u00adtrian hurries past-unless, that is, we have emboldened him to tum into the narrow lane. But another system of galleries runs underground through Paris : the Metro, where at dusk glowing red lights point the way into the underworld of names. Combat, Elysee, Georges V; Etienne Marcel, Solferino, Invalides, Vaugirard-they have all thrown off the humiliating fetters of street or square, and here in the lightning-scored, whistle-resounding darkness are transformed into misshapen sewer gods, catacomb fairies. This labyrinth harbors in its interior not one but a dozen blind raging bulls, into whose jaws not one Theban virgin once a year but thousands of anemic young dressmakers and drowsy clerks every morning must hurl themselves. [] Street Names [] Here, underground, nothing more of the colli\u00adsion, the intersection, of names-that which aboveground forms tile linguistic network of the city. Here each name dwells alone; hell is its demesne. Amer, Picon, Dubonnet are guardians of the threshold.", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C1a,2", 
+            "type": "card", 
+            "categories": "Street Names"
+        }, 
+        {
+            "fulltext": "\u201cDoesn't every quartier have its true apogee some time before it is fully built up? At that point its planet describes a curve as it draws near businesses, first the large and then the small. So long as the street is still somewhat new it belongs to the common people; it gets clear of them only when it is smiled on by fashion. Without naming prices, the interested parties dispute among themselves for the rights to the small houses and the apartments, but only so long as the beautiful women, the ones with the radiant elegance that adorns not only the salon but the whole house and even the street, continue to hold their receptions. And should the lady become a pedestrian, she will want some shops, and often the street must pay not a little for acceding too quickly to this wish. Courtyards are made smaller, and many are acceding too quickly to this wish. Courtyards are made smaller, and many are entirely done away with; the houses draw closer together. In the end, there comes a New Year's Day when it is considered bad form to have such an address on one's visiting card. By then the majority of tenants are businesses only, and the gateways of the neighborhood no longer have much to lose if now and again they furnish asylum for one of the small tradespeople whose miserahle stalls have replaced the shops.\u201d <Charles> Lefeuve, Les Anciennes Maisons de Paris sous Napoleon III (Paris and Brussels, 1873), vol. 1, p. 482 [] Fashion []", 
+            "source-name": "Les Anciennes Maisons de Paris Sous Napoleon III", 
+            "publication-place": "Paris and Brussels", 
+            "section": "C", 
+            "card-type": "quote", 
+            "label": "C1a,3", 
+            "publication-page": "482", 
+            "publication-date": "1873", 
+            "publication-volume": "1", 
+            "type": "card", 
+            "categories": "Fashion"
+        }, 
+        {
+            "fulltext": "To reconstruct the city also from its fontaines <springs, wells>. \"Some streets have preserved these in name, although the most celebrated among them, the Puits d'Amour <Well of Love>, which was located not far from the marketplace on the Rue de Ia Truanderic, has been dried, filled up, and smoothed over without a trace remaining. Hence, there is hardly anything left of the echoing wells which pro\u00advided a name for the Rue du Puits-qui-Pade, or of the wells which the tanner Adam-l'Hermite had dug in the quartier Saint-Victor. We have known the Rues de Puits-Mauconseil, du Puits-de-Fer, du Puits-du-Chapitre, du Puits-Certain, du Bon-Puits, and finally the Rue du Puits, which, after being the Rue du Bout-du\u00ad-Monde, became the Impasse Saint-Claude-Montmartre. The marketplace wells, the bucket-drawn wells, the water carriers are all giving way to the public wells, and our children, who will easily draw water even on the top floors of the tallest buildings in Paris, will be amazed that we have preserved for so long these primitive means of supplying one of humankind's most imperious needs.\" Maxime du Camp, Paris: Ses organes, ses fonctions et sa vie (Paris, 1875), vol. 5 , p. 263.", 
+            "source-name": "Ses organes, ses fonctions et sa vie", 
+            "publication-place": "Paris", 
+            "people": "Maxime du Camp", 
+            "section": "C", 
+            "card-type": "quote", 
+            "label": "C2,2", 
+            "publication-page": "263", 
+            "publication-date": "1875", 
+            "publication-volume": "5", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "There are architectonic emblems of commerce: steps lead to the apothecary, whereas the cigar shop has taken possession of the corner. The business world knows to make use of the threshold. In front of the arcade, the skating rink, the swimming pool, the railroad platform, stands the tutelary of the threshold: a hen that automatically lays tin eggs containing bonbons. Next to the hen, an auto\u00admated fortuneteller-an apparatus for stamping our names automatically on a tin band, which fixes our fate to our collar.", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C2,4", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "In old Paris, there were executions (for example, by hanging) in the open street.", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C2,5", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Rodenberg speaks of the \"stygian existence\" of certain worthless securities-such as shares in the Mires fund-which are sold by the \"small-time crooks\" of the Stock Exchange in the hope of a \"'future resurrection brought to pass by the day's market quotations.\" Julius Rodenberg, Paris bei Sonnenschein und Lampenlicht (Berlin, 1867), pp. 102-103.", 
+            "source-name": "Paris bei Sonnenschein und Lampenlicht", 
+            "publication-place": "Berlin", 
+            "people": "Julius Rodenberg", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C2a,1", 
+            "publication-page": "102-103", 
+            "publication-date": "1867", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Conservative tendency of Parisian life: as late as 1867, an entrepreneur conceived the plan of having five hundred sedan chairs circulate throughout the city.", 
+            "section": "C", 
+            "card-type": "comment", 
+            "label": "C2a,2", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "And boredom is the grating before which the courtesan teases death. [] Ennui []", 
+            "section": "B", 
+            "card-type": "comment", 
+            "label": "B1,1", 
+            "type": "card", 
+            "categories": "Ennui"
+        }, 
+        {
+            "fulltext": "Similarity of the arcades to the indoor arenas in which one learned to ride a bicycle. In these halls the figure of the woman assumed its most seductive aspect: as cyclist. That is how she appears on contemporary posters. Cheret the painter of this feminine pulchritude. The costume of the cyclist, as an early and uncon\u00adscious prefiguration of sportswear, corresponds to the dream prototypes that, a little before or a little later, are at work in the factory or the automobile. Just as the first factory buildings cling to the traditional form of the residential dwelling, and just as the first automobile chassis imitate carriages, so in the clothing of the cyclist the sporting expression still wresdes with the inherited pattern of elegance, and the fruit of this struggle is the grim sadistic touch which made this ideal image of elegance so incomparably provocative to the male world in those days. [] Dream Houses []", 
+            "people": "Cheret", 
+            "section": "B", 
+            "card-type": "comment", 
+            "label": "B1,2", 
+            "type": "card", 
+            "categories": "Dream Houses"
+        }, 
+        {
+            "fulltext": "\u201cIn these years [around 1880], not only does the Renaissance fashion begin to do mischief, but on the other side a new interest in sports-above all, in equestrian sports-arises among women, and together these two tendencies exert an influence on fashion from quite different directions. The attempt to reconcile these senti\u00adments dividing the female soul yields results that, in the years 1882-1885, are original if not always beautiful. To improve matters, dress designers simplify and take in the waist as much as possible, while allowing the skirt an amplitude all the more rococo.\u201d 70 Jahre deutsche Mode (1925) pp. 8487", 
+            "source-name": "Jahre deutsche Mode", 
+            "section": "B", 
+            "card-type": "quote", 
+            "label": "B1,3", 
+            "publication-page": "84-87", 
+            "publication-date": "1925", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "\u201cSquares, o square in Paris, infinite showplace, / where the modiste Madame Lamort / winds and binds the restless ways of the world, / those endless ribbons, to ever-new / creations of bow, frill, flower, cockade, and fruit-\u201d R. M. Rilke, Duineser Elegien (Leipzig, 1923) p. 23.", 
+            "source-name": "Duineser Elegien", 
+            "publication-place": "Leipzig", 
+            "people": "R. M. Rilke", 
+            "section": "B", 
+            "card-type": "quote", 
+            "label": "B1,5", 
+            "publication-page": "23", 
+            "publication-date": "1923", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "With Karr, there appears a rationalist theory of fashion that is closely related to the rationalist theory of the origin of religions. The motive for instituting long skirts, for example, he conceives to be the interest certain women would have had in concealing an unlovely <foot>. Or he denounces, as the origin of certain types of hats and certain hairstyles, the wish to compensate for thin hair.", 
+            "people": "Karr", 
+            "section": "B", 
+            "card-type": "comment", 
+            "label": "B1,7", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Who still knows, nowadays, where it was that in the last decade of the previous century women would offer to men their most seductive aspect, the most inti\u00admate promise of their figure? In the asphalted indoor arenas where people learned to ride bicycles. The woman as cyclist competes with the cabaret singer for the place of honor on posters, and gives to fashion its most daring line.", 
+            "section": "B", 
+            "card-type": "comment", 
+            "label": "B1,8", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "A pair of lascivious engravings by Charles Vernier entitled A Wedding on Wheels-showing the departure and the return. The bicycle offered unsuspected possibilities for the depiction of the raised skirt.", 
+            "people": "Charles Vernier", 
+            "section": "B", 
+            "card-type": "comment", 
+            "label": "B1a,3", 
+            "text-refs": "A Wedding on Wheels", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "On October 4., 1856, the Gymnasium Theater presented a play entitled Les Toilettes Tapageuses <The Flashy Dressers>, It was the heyday of the crinoline, and puffed-out women were in fashion. The actress playing the leading role, having grasped the satirical intentions of the author, wore a dress whose skirt, exaggerated by design, had a fullness that was comical and almost ridiculous . The day after opening night, she was asked by more than twenty fme ladies to lend her dress as a model, and eight days later the crinoline had doubled in size.", 
+            "source-name": "Paris", 
+            "publication-place": "Paris", 
+            "people": "Maxime du Camp", 
+            "section": "B", 
+            "card-type": "comment", 
+            "label": "B2,2", 
+            "publication-page": "192", 
+            "publication-date": "1875", 
+            "publication-volume": "6", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "\u201cFashion is the recherche-the always vain, often ridiculous, sometimes danger\u00adous quest-for a superior ideal beauty.\u201d Du Camp, Paris, vol. 6, p. 294.", 
+            "source-name": "Paris", 
+            "publication-place": "Paris", 
+            "people": "Maxime du Camp", 
+            "section": "B", 
+            "card-type": "quote", 
+            "label": "B2,3", 
+            "publication-page": "192", 
+            "publication-date": "1875", 
+            "publication-volume": "6", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "She was everybody's contemporary. <Marcel> Jouhandeau, Prudence Hautechaume (Paris, 1927), p. 129. To be contemporaine de tout le monde-that is the keenest and most secret satisfaction that fashion can offer a woman.", 
+            "source-name": "Prudence Hautechaume", 
+            "publication-place": "Paris", 
+            "people": "Marcel Jouhandeau", 
+            "section": "B", 
+            "card-type": "quote", 
+            "label": "B2,5", 
+            "publication-page": "129", 
+            "publication-date": "1927", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "An emblem of the power of fashion over the city of Paris: \"I have purchased a map of Paris printed on a pocket handkerchief:' Gutzkow, Briefe aus Paris, vol. 1 <Leipzig, 1842>, p. 82.", 
+            "source-name": "Briefe aus Paris", 
+            "publication-place": "Leipzig", 
+            "people": "Gutzkow", 
+            "section": "B", 
+            "card-type": "quote", 
+            "label": "B2a,1", 
+            "publication-page": "82", 
+            "publication-date": "1842", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Child with its mother in the panorama. The panorama is presenting the Battle of Sedan. The child finds it all very lovely: \"Only, it's too bad the sky is so dreary,\"-\"That's what the weather is like in war;' answers the mother. [] Dioramas []  Thus, the panoramas too are in fundamental complicity with this world of mist, this cloud-world: the light of their images breaks as through curtains of rain.", 
+            "section": "D", 
+            "card-type": "comment", 
+            "label": "D1,1", 
+            "type": "card", 
+            "categories": "Dioramas"
+        }, 
+        {
+            "fulltext": "This Paris [of Baudelaire's] is very different from the Paris of Verlaine, which itself has already faded. The one is somber and rainy, like a Paris on which the image of Lyons has been superimposed; the other is whitish and dusty, like a pastel by Raphael. One is suffocating whereas the other is airy, with new buildings scattered in a wasteland, and, not far away a gate leading to withered arbors.", 
+            "source-name": "La Vie douloureuse de Charles Baudelaire", 
+            "publication-place": "Paris", 
+            "people": "Francois Porche", 
+            "section": "D", 
+            "card-type": "quote", 
+            "label": "D1,2", 
+            "publication-page": "119", 
+            "publication-date": "1926", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Baudelaire as the poet of Spleen de Paris: \"One of the central motifs of this poetry is, in effect, boredom in the fog, ennui and indiscriminate haze (fog of the cities). In a word, it is spleen.\" Francois Porche, Da Vie douloureuse de Charles Baude\u00adlaire (Paris, 1926), p. 184.", 
+            "source-name": "La Vie douloureuse de Charles Baudelaire", 
+            "publication-place": "Paris", 
+            "people": "Francois Porche", 
+            "section": "D", 
+            "card-type": "comment", 
+            "label": "D1,4", 
+            "publication-page": "184", 
+            "publication-date": "1926", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "How many years separated the war mentioned above from the Napoleonic expedition to Italy? And where is the Rue des Colonnes located?", 
+            "section": "D", 
+            "card-type": "comment", 
+            "label": "D1,6", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Rainshowers have given birth to <many> adventures. Diminishing magical power of the rain. Mackintosh.", 
+            "section": "D", 
+            "card-type": "quote", 
+            "label": "D1,7", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "He explains that the Rue Grange-Bateliere is particularly dusty, that one gets terribly grubby in the Rue Reaumur. H Louis Aragon, Le Puysalt de Paris (Paris, 1926), p. 88.", 
+            "source-name": "Le Puysalt de Paris", 
+            "publication-place": "Paris", 
+            "people": "Louis Aragon", 
+            "section": "D", 
+            "card-type": "quote", 
+            "label": "D1a,2", 
+            "publication-page": "88", 
+            "publication-date": "1926", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "The Galerie du Thermometre and the Galel'ic du Barometre, in the Passage de l'Opera.", 
+            "section": "D", 
+            "card-type": "comment", 
+            "label": "D1a,4", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Only here, Chirico once said, \"is it possihle to paint. The streets have such gradations of gray..... \"", 
+            "people": "Chirico", 
+            "section": "D", 
+            "card-type": "quote", 
+            "label": "D1a,7", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "The Parisian atmosphere reminds Carus of the way the Neapolitan coastline looks when the sirocco blows.", 
+            "section": "D", 
+            "card-type": "comment", 
+            "label": "D1a,8", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "To give to this dust a semblance of consistency, as by soaking it in blood. Louis Veuillot, Les Odeurs de Paris (Paris, 1914), p. 12.", 
+            "source-name": "Les Odeurs de Paris", 
+            "publication-place": "Paris", 
+            "people": "Louis Veuillot", 
+            "section": "D", 
+            "card-type": "quote", 
+            "label": "D1a,10", 
+            "publication-page": "12", 
+            "publication-date": "1914", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "This dull, glib sadness called ennui. H Louis Venillot, Les Odeurs de Paris (Paris, 1914), p. 177.\t\t\t\tLes Odeurs de Paris\tLouis Veuillot\tParis\t1914\t\t117", 
+            "source-name": "Les Odeurs de Paris", 
+            "publication-place": "Paris", 
+            "people": "Louis Veuillot", 
+            "section": "D", 
+            "card-type": "quote", 
+            "label": "D2,5", 
+            "publication-page": "117", 
+            "publication-date": "1914", 
+            "type": "card"
+        }, 
+        {
+            "fulltext": "Boredom of the ceremonial scenes depicted in historical paintings, and the dolce for niente of battle scenes with all that dwells in the smoke of gunpowder. From the images d'Epinal to Manet's Execution if Emperor Maximilian, it is always the same-and always a new-fata morgana, always the smoke in which Mogreby <?>, or the genie from the bottle suddenly emerges before the dreaming, absent\u00ad minded art lover. [] Dream House, Museums []", 
+            "section": "D", 
+            "card-type": "comment", 
+            "label": "D2a,8", 
+            "type": "card", 
+            "categories": "Dream House, Museums"
+        }, 
+        {
+            "fulltext": "The First Empire copied the triumphal arches and monuments of the two classi\u00adcal centuries. Then there was an attempt to revive and reinvent more remote models: the Second Empire imitated the Renaissance, the Gothic, the Pompeian. After this came an epoch of vulgarity without style.  Dubech and d'Espezel, His\u00adtoire de Paris (Paris, 1926), p. 464. [] Interior []", 
+            "source-name": "Histoire de Paris", 
+            "publication-place": "Paris", 
+            "people": "Dubech and d'Espezel", 
+            "section": "D", 
+            "card-type": "quote", 
+            "label": "D3,2", 
+            "publication-page": "345", 
+            "publication-date": "1926", 
+            "type": "card", 
+            "categories": "Interior"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+<html>
+
+<head>
+    <title>Arcades Project | Faceted Browser</title>
+
+    <link href="cards.json" type="application/json" rel="exhibit-data" />
+    <script src="/scripted/dist/exhibit-api.js?bundle=false"></script>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+    <script src="http://assets.annotateit.org/annotator/v1.2.7/annotator-full.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://assets.annotateit.org/annotator/v1.2.7/annotator.min.css" />
+
+    <script src="http://tinymce.cachefly.net/4.0/tinymce.min.js"></script>
+    <script src="http://danielcebrian.com/richText-annotation/src/richText-annotator.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://danielcebrian.com/richText-annotation/src/richText-annotator.css" />
+
+</head>
+
+<body>
+    <div id="main-content">
+        <div id="title-panel">
+            <h1>
+            <span align="left">Hyperfl&#226;neur</span>
+            <span align="right" class="byline">An Arcades Project project by Liam Andrew &amp; Erik Stayton</span></h1>
+        </div>
+        <div id="byline">
+        </div>
+
+        <div id="top-panels">
+            <table width="100%">
+                <tr>
+                    <td>
+                        <div ex:role="facet" ex:facetClass="TextSearch" ex:expressions=".fulltext"></div>
+                    </td>
+                </tr>
+            </table>
+            <br>
+            <table width="100%">
+                <tr>
+                    <td>
+                        <div ex:role="facet" ex:expression=".section" ex:facetLabel="Section"></div>
+                    </td>
+                    <td>
+                        <div ex:role="facet" ex:expression=".categories" ex:facetLabel="Categories"></div>
+                    </td>
+                    <td>
+                        <div ex:role="facet" ex:expression=".card-type" ex:facetLabel="Card Type"></div>
+                    </td>
+                    <td>
+                        <div ex:role="facet" ex:expression=".people" ex:facetLabel="People"></div>
+                    </td>
+                    <td>
+                        <div ex:role="facet" ex:expression=".publication-place" ex:facetLabel="Location"></div>
+                    </td>
+                    <td>
+                        <div ex:role="facet" ex:expression=".publication-date" ex:facetLabel="Date"></div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <div ex:role="viewPanel" style="padding: 1em 0.5in;">
+            <table ex:role="lens" class="card" style="display: none;">
+                <tr>
+                    <td>
+                        <div ex:content=".label" class="name"></div>
+                        <br>
+                        <div ex:content=".fulltext" class="fulltext"></div>
+                        <br>
+                        <div ex:if-exists=".card-refs" class="card-refs">
+                            <span ex:content=".card-refs" class="card-refs"></span>
+                        </div>
+                        <div ex:if-exists=".categories" class="categories">
+                            <div>Category: <span ex:content=".categories" class="categories"></span></div>
+                        </div>
+                        <div ex:if-exists=".people" class="people">
+                            <div>People: <span ex:content=".people" class="people"></span></div>
+                        </div>
+                        <div ex:content=".text-refs" class="text-refs"></div>
+                        <div ex:if-exists=".source-name" class="source-name">
+                            <div>Source: <i><span ex:content=".source-name" class="source-name"></span></i></div>
+                        </div>
+                        <div ex:if-exists=".publication-place" class="publication-wherewhen">
+                            <span>Place: <span ex:content=".publication-place" class="publication-place"></span>,
+                            <i ex:content=".publication-date"></i></span>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+
+            <div ex:role="view" ex:label="Details" ex:viewClass="Tile" ex:showAll="true">
+            </div>
+        </div>
+    </div>
+    <script src="annotator-setup.js" type="text/javascript"></script>
+</body>
+
+</html>
